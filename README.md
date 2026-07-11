@@ -3,7 +3,7 @@
 **Senior DevOps Engineer | CI/CD Architect | Embedded Systems Specialist | Platform Engineer**
 
 <div align="center">
-  <img src="https://github.com/penchalj/penchalj/blob/main/banner.png" 
+  <img src="https://github.com/penchalj/penchalj/blob/main/2.jpg" 
        alt="Penchalaiah Jammula Banner" 
        width="100%" style="border-radius: 12px;"/>
 </div>
