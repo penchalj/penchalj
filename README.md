@@ -1,86 +1,96 @@
-# 👋 Hi there, I'm **Penchalaiah Jammula**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Penchalaiah Jammula | Senior DevOps Engineer</title>
+  <style>
+    :root {
+      --primary: #0A2540;
+      --accent: #00D4FF;
+    }
+    body {
+      font-family: 'Segoe UI', system-ui, sans-serif;
+      margin: 0; padding: 0;
+      background: linear-gradient(135deg, #0A2540 0%, #1a3a5f 100%);
+      color: white;
+      line-height: 1.6;
+    }
+    .container { max-width: 1100px; margin: 0 auto; padding: 20px; }
+    header {
+      text-align: center;
+      padding: 60px 20px 40px;
+      background: rgba(0,0,0,0.4);
+      border-radius: 0 0 30px 30px;
+    }
+    .profile-img {
+      width: 180px; height: 180px; border-radius: 50%;
+      border: 6px solid var(--accent);
+      margin-bottom: 20px;
+    }
+    h1 { font-size: 3rem; margin: 10px 0; }
+    .tagline { font-size: 1.4rem; opacity: 0.9; }
+    section { padding: 60px 0; }
+    .card {
+      background: rgba(255,255,255,0.1);
+      border-radius: 16px;
+      padding: 24px;
+      margin: 16px 0;
+      transition: transform 0.3s;
+    }
+    .card:hover { transform: translateY(-8px); }
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 40px;
+      background: rgba(0,0,0,0.6);
+    }
+    a { color: var(--accent); text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <img src="https://via.placeholder.com/180" alt="Profile" class="profile-img">
+      <h1>Penchalaiah Jammula</h1>
+      <p class="tagline">Senior DevOps Engineer | CI/CD Architect | Embedded Systems Expert</p>
+      <p>Tuttlingen, Germany • Immediate Availability</p>
+    </header>
 
-**Senior DevOps Engineer | CI/CD Architect | Embedded Systems Specialist | Platform Engineer**
+    <section>
+      <h2>💼 Featured Projects</h2>
+      <div class="skills-grid">
+        <div class="card">
+          <h3>BMS CI/CD Platform @ Marquardt</h3>
+          <p>Designed full containerized CI/CD pipelines with Docker, Terraform, and Ansible. Automated build, test, and flashing processes.</p>
+        </div>
+        <div class="card">
+          <h3>ADAS Test Automation</h3>
+          <p>Built Python/CAPL frameworks integrated into Jenkins for HIL testing of camera and radar systems.</p>
+        </div>
+      </div>
+    </section>
 
-<div align="center">
-  <img src="https://github.com/penchaljammula/penchaljammula/blob/main/banner-dark.png" alt="Banner" width="100%" style="border-radius: 12px;"/>
-</div>
+    <section>
+      <h2>🛠️ Skills</h2>
+      <div class="skills-grid">
+        <div class="card"><strong>DevOps:</strong> Azure DevOps, Jenkins, GitLab, Docker, Kubernetes, Terraform</div>
+        <div class="card"><strong>Automation:</strong> Python, PowerShell, CMake, Bash</div>
+        <div class="card"><strong>Embedded:</strong> C/C++, AUTOSAR, CANoe, HIL Testing</div>
+      </div>
+    </section>
 
----
-
-### 🚀 Professional Summary
-
-**Microsoft Certified Azure DevOps Engineer Expert** with **16+ years** of experience delivering robust CI/CD pipelines, containerized platforms, and automation solutions for safety-critical automotive systems (BMS & ADAS).
-
-Currently in **Tuttlingen, Germany** · **Immediate Availability** · **German: B2** · **Niederlassungserlaubnis**
-
-🔗 [LinkedIn](https://www.linkedin.com/in/penchaljammula/) | ✉️ penchal.jammula@gmail.com | 📱 +49 15510020160
-
----
-
-### 📊 GitHub Stats & Trophies
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=penchaljammula&show_icons=true&theme=dark&hide_border=true" alt="Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=penchaljammula&theme=dark&hide_border=true" alt="Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penchaljammula&layout=compact&theme=dark&hide_border=true" alt="Top Langs"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=penchaljammula&theme=dark&no-frame=true&margin-w=15" alt="Trophies"/>
-</div>
-
----
-
-### 🛠️ Skills & Technologies
-
-**DevOps & Platforms**  
-Jenkins • GitLab CI • Azure DevOps • GitHub Actions • Docker (Linux/Windows) • Kubernetes • Terraform • Bicep • Ansible • JFrog Artifactory
-
-**Automation & Scripting**  
-Python • PowerShell • Bash • CMake • CAPL • Groovy • Embedded C/C++
-
-**Monitoring & Cloud**  
-Grafana • Azure Monitor • AWS
-
-**Embedded & Automotive**  
-AUTOSAR • CANoe • Lauterbach • HIL Testing • vFlash
-
----
-
-### 💼 Featured Projects
-
-#### 1. **BMS CI/CD Platform @ Marquardt**
-- End-to-end containerized build & test pipeline (Docker + Jenkins/GitLab)
-- Terraform IaC + Ansible automation
-- Automated flashing & reporting system (Python/PowerShell)
-- **Impact**: Dramatically reduced release time and improved quality
-
-#### 2. **ADAS Test Automation Framework**
-- Python/CAPL frameworks integrated into CI/CD
-- Containerized HIL environments
-- Global team collaboration & mentoring
-
-#### 3. **Reusable DevOps Tooling**
-- Multi-platform Docker images for Linux & Windows dev environments
-- Git workflows, branching strategies, and artifact management
-
-*(Add your actual repo links here)*
-
----
-
-### 🎓 Education & Certifications
-
-- **MBA in Business Management** – NMIMS Mumbai
-- **Microsoft Azure DevOps Engineer Expert (AZ-400)**
-- **Microsoft Azure Administrator (AZ-104)**
-- ISTQB Advanced & Foundation Level
-
----
-
-**🌙 Dark Theme** | **☀️ Light Theme**  
-*(Switch by changing `theme=dark` to `theme=light` in the image URLs above)*
-
----
-
-<sub>Built with passion for automation and excellence.</sub>
+    <footer>
+      <p>Connect with me: 
+        <a href="https://linkedin.com/in/penchaljammula">LinkedIn</a> | 
+        <a href="mailto:penchal.jammula@gmail.com">Email</a>
+      </p>
+      <p>© 2026 Penchalaiah Jammula • Built for impact</p>
+    </footer>
+  </div>
+</body>
+</html>
