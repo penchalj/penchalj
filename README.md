@@ -1,13 +1,14 @@
 # Hi there, I'm Penchalaiah Jammula 👋
-### Senior Software Integrator | DevOps Expert | CI/CD & Build/Test Automation Specialist
+### Sr. Software Engineer (DevOps Engineering) | CI/CD & Platform Automation Specialist
 
-With over 16 years of combined experience spanning Embedded Software Development, Software Integration, Test Automation, and modern DevOps ($CI/CD$), I specialize in engineering robust build chains and pipelines for safety-critical domains like **Automotive (BMS, ADAS)** and **Industrial Automation**.
+With over 16 years of combined experience spanning DevOps Engineering, containerization/virtualization solutions, and embedded systems integration, I bridge the gap between cloud infrastructure and safety-critical edge development (BMS, ADAS). I specialize in designing hybrid Linux/Windows automated environments and building robust build/test pipelines.
 
 ---
 
-## 🚀 Professional Badges & Certifications
+## 🎖️ Certifications & Badges
 <div>
   <img src="https://img.shields.io/badge/Microsoft_Certified-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure DevOps Expert" />
+  <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure Admin" />
   <img src="https://img.shields.io/badge/ISTQB-Advanced_Test_Manager-173A5E?style=for-the-badge&logo=istqb&logoColor=white" alt="ISTQB Advanced" />
   <img src="https://img.shields.io/badge/German_Language-B2_Certified-000000?style=for-the-badge&logo=google-translate&logoColor=white" alt="German B2" />
 </div>
@@ -21,34 +22,32 @@ With over 16 years of combined experience spanning Embedded Software Development
 
 ## 🛠️ Technical Ecosystem
 
-### ♾️ DevOps & Infrastructure as Code (IaC)
-| Tool | Purpose |
-| :--- | :--- |
-| **CI/CD Orchestration** | Jenkins, GitLab CI, GitHub Actions, Azure DevOps |
-| **Infrastructure & Config** | Terraform, Bicep, Ansible |
-| **Containerization & Storage** | Docker, JFrog Artifactory |
-| **Build Automation** | CMake, Make |
+### ♾️ DevOps, Cloud & IaC
+*   **CI/CD Orchestration:** Azure DevOps, Jenkins, GitLab CI, GitHub Actions[cite: 2]
+*   **Infrastructure as Code & Configuration:** Terraform, Bicep, ARM Templates, Ansible[cite: 2]
+*   **Containers & Cloud:** Docker (Linux & Windows), Azure Kubernetes Service (AKS), AWS, Google Cloud[cite: 2]
+*   **Artifacts & Builds:** JFrog Artifactory, CMake, Make, Maven[cite: 2]
+*   **Monitoring & Observability:** Grafana, Azure Monitor[cite: 2]
 
-### 💻 Languages & Scripting Frameworks
-*   **Core Systems:** Embedded $C/C++$
-*   **Automation & Scripting:** Python, Groovy, YAML, Bash, PowerShell, Batch, CAPL, CMM, Perl, VB
+### 💻 Languages & Automation Scripting
+*   **System Development:** Embedded $C/C++$, C#, Java[cite: 2]
+*   **Scripting & Pipelines:** Python, Groovy, YAML, Bash, PowerShell, Batch, CAPL, CMM Script, Perl, VB[cite: 2]
 
-### 🚗 Automotive, Debug & Test Automation
-*   **Hardware Environments:** HIL Testing, Microcontrollers (Aurix TC29x/TC387, SPC58NG84, ARM Cortex, STM32)
-*   **Protocols:** CAN, Ethernet, SPI, I2C, UART, FlexRay, XCP
-*   **Vector & Diagnostics Tools:** CANoe, CANalyzer, CANape, INCA, vFlash, Lauterbach Trace32, VX1000
-
----
-
-## 📈 What I Bring to the Table
-*   **Robust Pipe Engineering:** Proven record of migrating manual test/build chains into seamless, containerized cloud or self-hosted virtual runners.
-*   **Process Compliance:** Comprehensive understanding of high-standard medical and automotive software engineering mandates (IEC 62304, ISO 13485).
-*   **Global Technical Leadership:** Experienced cross-border team lead (Germany, India, Romania) mentoring engineers on DevOps mindsets and continuous engineering models.
+### 🚗 Embedded, Automotive & Testing Tools
+*   **Microcontrollers:** Aurix TC29x/TC387, SPC58NG84, JACINTO ARM Cortex, STM32[cite: 2]
+*   **Protocols:** CAN, Ethernet, SPI, I2C, UART, FlexRay, XCP[cite: 2]
+*   **Vector & Diagnostic Hardware:** CANoe, CANalyzer, CANape (XCP), INCA, vFlash, Lauterbach Trace32, VX1000, ADTF, HIL Testing[cite: 2]
 
 ---
 
-## 📊 GitHub Metrics
-⚡ *Fun Fact: I bridge the gap between low-level hardware registers and high-level cloud architecture pipelines.*
+## 🚀 Key Highlights & Expertise
+*   **Hybrid Environments:** Expert in creating containerized and virtualized environments using Docker across both Windows and Linux instances to run automated build and test runner agents[cite: 2].
+*   **Infrastructure Automation:** Strong capability in writing configuration management setups via Ansible and reusable infrastructure building blocks using Terraform and Bicep[cite: 2].
+*   **Test & Flash Frameworks:** Proven history of developing custom scripts (Python, CAPL, Shell) integrated directly into pipelines for flashing software artifacts and validating embedded targets[cite: 2].
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=penchalj&show_icons=true&theme=tokyonight&count_private=true" alt="Penchalaiah's GitHub Stats" height="180px"/>
