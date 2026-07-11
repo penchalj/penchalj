@@ -1,55 +1,119 @@
-# Hi there, I'm Penchalaiah Jammula 👋
-### Sr. Software Engineer (DevOps Engineering) | CI/CD & Platform Automation Specialist
+# 👋 Hi there, I'm **Penchalaiah Jammula**
 
-With over 16 years of combined experience spanning DevOps Engineering, containerization/virtualization solutions, and embedded systems integration, I bridge the gap between cloud infrastructure and safety-critical edge development (BMS, ADAS). I specialize in designing hybrid Linux/Windows automated environments and building robust build/test pipelines.
+**Senior Software Engineer | DevOps | CI/CD | Build & Test Automation | Embedded Systems**
 
----
-
-## 🎖️ Certifications & Badges
-<div>
-  <img src="https://img.shields.io/badge/Microsoft_Certified-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure DevOps Expert" />
-  <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Administrator_Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure Admin" />
-  <img src="https://img.shields.io/badge/ISTQB-Advanced_Test_Manager-173A5E?style=for-the-badge&logo=istqb&logoColor=white" alt="ISTQB Advanced" />
-  <img src="https://img.shields.io/badge/German_Language-B2_Certified-000000?style=for-the-badge&logo=google-translate&logoColor=white" alt="German B2" />
-</div>
-
-<br/>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/penchaljammula/)](https://www.linkedin.com/in/penchaljammula/)
-[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:penchal.jammula@gmail.com)
+![Profile Banner](https://via.placeholder.com/1200x300/0A2540/FFFFFF?text=DevOps+%7C+Embedded+Systems+%7C+CI%2FCD+Expert)  
+*(Replace with your custom banner – e.g., Azure + Docker + Kubernetes themed)*
 
 ---
 
-## 🛠️ Technical Ecosystem
+### 🚀 About Me
 
-### ♾️ DevOps, Cloud & IaC
-*   **CI/CD Orchestration:** Azure DevOps, Jenkins, GitLab CI, GitHub Actions[cite: 2]
-*   **Infrastructure as Code & Configuration:** Terraform, Bicep, ARM Templates, Ansible[cite: 2]
-*   **Containers & Cloud:** Docker (Linux & Windows), Azure Kubernetes Service (AKS), AWS, Google Cloud[cite: 2]
-*   **Artifacts & Builds:** JFrog Artifactory, CMake, Make, Maven[cite: 2]
-*   **Monitoring & Observability:** Grafana, Azure Monitor[cite: 2]
+**Microsoft Certified Azure DevOps Engineer Expert** with **16+ years** of hands-on experience in **DevOps**, **Platform Engineering**, **Containerization**, **Embedded Software Development**, and **Automotive Systems**.
 
-### 💻 Languages & Automation Scripting
-*   **System Development:** Embedded $C/C++$, C#, Java[cite: 2]
-*   **Scripting & Pipelines:** Python, Groovy, YAML, Bash, PowerShell, Batch, CAPL, CMM Script, Perl, VB[cite: 2]
+I specialize in designing, implementing, and optimizing robust **CI/CD pipelines**, building **containerized development platforms**, and automating **build, test, and deployment** processes for complex embedded and safety-critical systems (Battery Management Systems, ADAS, Automotive).
 
-### 🚗 Embedded, Automotive & Testing Tools
-*   **Microcontrollers:** Aurix TC29x/TC387, SPC58NG84, JACINTO ARM Cortex, STM32[cite: 2]
-*   **Protocols:** CAN, Ethernet, SPI, I2C, UART, FlexRay, XCP[cite: 2]
-*   **Vector & Diagnostic Hardware:** CANoe, CANalyzer, CANape (XCP), INCA, vFlash, Lauterbach Trace32, VX1000, ADTF, HIL Testing[cite: 2]
+Currently based in **Tuttlingen, Germany** with **Niederlassungserlaubnis** and **immediate availability**.
+
+- **German**: B2 Level (Telc DTB-B2 Certified)
+- **Location**: Weißrosen Str. 10, 78532 Tuttlingen
+- **Email**: penchal.jammula@gmail.com
+- **Phone**: +49 (0) 15510020160
+- **LinkedIn**: [linkedin.com/in/penchaljammula](https://www.linkedin.com/in/penchaljammula/)
 
 ---
 
-## 🚀 Key Highlights & Expertise
-*   **Hybrid Environments:** Expert in creating containerized and virtualized environments using Docker across both Windows and Linux instances to run automated build and test runner agents[cite: 2].
-*   **Infrastructure Automation:** Strong capability in writing configuration management setups via Ansible and reusable infrastructure building blocks using Terraform and Bicep[cite: 2].
-*   **Test & Flash Frameworks:** Proven history of developing custom scripts (Python, CAPL, Shell) integrated directly into pipelines for flashing software artifacts and validating embedded targets[cite: 2].
+### 🛠️ Core Expertise
+
+#### DevOps & Cloud
+- **CI/CD Pipelines**: Azure DevOps, Jenkins, GitLab CI, GitHub Actions
+- **IaC**: Terraform, Bicep, ARM Templates
+- **Containerization**: Docker (Linux & Windows), Kubernetes
+- **Configuration Management**: Ansible
+- **Artifact Management**: JFrog Artifactory
+- **Cloud**: Azure (AZ-400 & AZ-104 Certified), AWS, GCP
+
+#### Automation & Scripting
+- **Languages**: Python, PowerShell, Bash, Groovy, Batch, Perl, VB
+- **Build Tools**: CMake, Maven, Make
+- **Test Automation**: Python/CAPL frameworks, HIL Testing, Flash Automation (vFlash, ODX, Hex)
+
+#### Embedded & Automotive
+- **Embedded C/C++**, AUTOSAR, CAN, Ethernet, SPI, UART, XCP
+- **Tools**: Lauterbach Trace32, CANoe, CANalyzer, INCA, ADTF
+- **Domains**: BMS, ADAS (Radar, Camera, Laser Scanner), Power Transmission
+
+#### Monitoring & Others
+- Grafana, Azure Monitor
+- Agile & Cross-functional Team Leadership
 
 ---
 
-## 📊 GitHub Analytics
+### 💼 Professional Experience
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=penchalj&show_icons=true&theme=tokyonight&count_private=true" alt="Penchalaiah's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=penchalj&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px"/>
-</p>
+#### Senior Software Engineer (DevOps) – Battery Management Systems (BMS)
+**Marquardt GmbH, Rietheim, Germany** | *Sep 2019 – Present*
+
+- Designed, implemented, and maintained **CI/CD pipelines** (Jenkins, GitLab, Azure DevOps) and **containerized build/test environments** (Docker on Linux/Windows) that significantly improved release efficiency and quality.
+- Built reusable **Infrastructure as Code** (Terraform & Bicep) and automation components (CMake, Python/PowerShell flashing scripts).
+- Used **Ansible** to automate deployment and configuration of CI/CD infrastructure and self-hosted agents.
+- Led integration & testing teams across global locations while mentoring on DevOps best practices.
+
+#### Autosar Software Engineer & Integrator (ADAS)
+**ZF TRW & Valeo, Germany** | *Jul 2016 – Jun 2019*
+
+- Integrated **Python/CAPL test automation** into Jenkins pipelines for HIL testing of Forward Camera & Laser Scanner systems.
+- Configured containerized and virtualized test environments supporting full DevOps workflows.
+
+#### Senior Software Engineer / Function Development Owner – ADAS
+**Delphi & Continental, Bangalore, India** | *Sep 2011 – Oct 2015*
+
+- Led development of safety-critical ADAS modules (Fail-Safe, DEM) across multiple radar projects.
+- Developed automation tools that streamlined variant management and release cycles.
+
+*(Earlier roles include Embedded Driver Development at One Convergence & Sugan Automatics)*
+
+---
+
+### 🎓 Education
+
+- **MBA in Business Management** – NMIMS, Mumbai (2019–2021)
+- **PG Diploma in Embedded Systems Design & Development** – C-DAC, Hyderabad (2009)
+- **B.Tech in Electrical & Electronics Engineering** – Narayana Engineering College (2004–2008)
+
+---
+
+### 🏆 Certifications
+
+- **Microsoft Azure DevOps Engineer Expert (AZ-400)** – ID: 5C3F1AFC4F2F536F
+- **Microsoft Azure Administrator Associate (AZ-104)**
+- **ISTQB Certified Tester – Advanced Level (Test Management)**
+- **ISTQB Certified Tester – Foundation Level**
+
+---
+
+### 📊 Skills Snapshot
+
+| Category              | Technologies |
+|-----------------------|--------------|
+| **DevOps**            | Jenkins • GitLab CI • Azure DevOps • GitHub Actions • Docker • Kubernetes • Terraform • Ansible |
+| **Programming**       | Embedded C/C++ • Python • PowerShell • Bash • Groovy • CAPL • Perl |
+| **Tools**             | CMake • Maven • JFrog Artifactory • CANoe • Lauterbach • vFlash |
+| **Cloud & Infra**     | Azure • AWS • Bicep • ARM Templates |
+
+---
+
+### 🌟 Let's Connect & Collaborate!
+
+I'm always excited to connect with fellow engineers, DevOps enthusiasts, and organizations working on cutting-edge automotive, embedded, or cloud-native platforms.
+
+- Open to **freelance**, **consulting**, or **full-time opportunities** in DevOps / Platform Engineering.
+- Happy to share knowledge on CI/CD for embedded systems, Docker on Windows/Linux, or Terraform best practices.
+
+---
+
+**"Turning complex integration challenges into automated, repeatable, and reliable delivery pipelines."**
+
+---
+
+<sub>Built with ❤️ for an impressive GitHub profile. Feel free to customize colors, add GitHub stats cards, visitor badges, or project screenshots!</sub>
