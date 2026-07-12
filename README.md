@@ -22,7 +22,7 @@ Currently based in **Tuttlingen, Germany** · **Immediate Availability** · **Ge
 ### 🛠️ Skills & Technologies
 
 **DevOps & CI/CD**  
-AWS,Azure • Jenkins • GitLab CI • GitHub Actions • Docker • Kubernetes • Terraform • Bicep • Ansible
+AWS  • Azure • Jenkins • GitLab CI • GitHub Actions • Docker • Kubernetes • Terraform • Bicep • Ansible
 
 **Automation & Scripting**  
 Python • PowerShell • Bash • CMake • CAPL
