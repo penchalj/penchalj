@@ -12,27 +12,17 @@
 
 ### 🚀 Professional Summary
 
-**Microsoft Certified Azure DevOps Engineer Expert** with **16+ years** of experience in DevOps, CI/CD pipelines, containerization, and embedded systems for automotive domain (BMS & ADAS).
+**Microsoft Certified Azure DevOps Engineer Expert** with **16+ years** of experience in DevOps, CI/CD pipelines, containerization, and embedded systems.
 
 Currently based in **Tuttlingen, Germany** · **Immediate Availability** · **German: B2** · **Niederlassungserlaubnis**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/penchaljammula/) | ✉️ penchal.jammula@gmail.com | 📞 +49 15510020160
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=penchalj&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=penchalj&theme=dark&hide_border=true" alt="Streak"/>
-</div>
-
----
 
 ### 🛠️ Skills & Technologies
 
 **DevOps & CI/CD**  
-Azure DevOps • Jenkins • GitLab CI • GitHub Actions • Docker • Kubernetes • Terraform • Bicep • Ansible
+AWS,Azure • Jenkins • GitLab CI • GitHub Actions • Docker • Kubernetes • Terraform • Bicep • Ansible
 
 **Automation & Scripting**  
 Python • PowerShell • Bash • CMake • CAPL
@@ -50,7 +40,6 @@ Azure • AWS • Grafana • JFrog Artifactory
 - **BMS CI/CD Platform** @ Marquardt – Designed and maintained full containerized CI/CD pipelines
 - **ADAS Test Automation** – Built Python/CAPL frameworks integrated with Jenkins
 - **Infrastructure as Code** – Terraform & Bicep templates for consistent environments
-
 ---
 
 ### 🎓 Certifications
