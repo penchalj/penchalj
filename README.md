@@ -25,7 +25,7 @@ Currently based in **Tuttlingen, Germany** · **Immediate Availability** · **Ge
 AWS  • Azure • Jenkins • GitLab CI • GitHub Actions • Docker • Kubernetes • Terraform • Bicep • Ansible
 
 **Automation & Scripting**  
-Python • PowerShell • Bash • CMake • CAPL
+Python • PowerShell • Bash • CMake • CAPL • YAML • GROOVY
 
 **Embedded & Automotive**  
 Embedded C/C++ • AUTOSAR • CANoe • Lauterbach • HIL Testing
