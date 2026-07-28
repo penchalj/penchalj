@@ -32,7 +32,7 @@ Python • PowerShell • Bash • CMake • CAPL • YAML • GROOVY
 Embedded C/C++ • AUTOSAR • CANoe • Lauterbach • HIL Testing
 
 **Cloud & Monitoring**  
-Azure • AWS • Grafana • JFrog Artifactory
+• AWS • AWS • Grafana • JFrog Artifactory
 
 ---
 
