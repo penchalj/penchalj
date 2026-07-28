@@ -12,7 +12,7 @@
 
 ### 🚀 Professional Summary
 
-**Microsoft Certified Azure DevOps Engineer Expert** with **16+ years** of experience in DevOps, CI/CD pipelines, containerization, and embedded systems.
+**Senior DevOps Engineer** with **16+ years** of experience in DevOps, CI/CD pipelines, Infra Structure as Code(Terraform & Biceps), containerization, and embedded systems Build & Test Automation.
 
 Currently based in **Tuttlingen, Germany** · **Immediate Availability** · **German: B2** · **Niederlassungserlaubnis**
 
