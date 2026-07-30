@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm **Penchalaiah Jammula** 👋
+# 👋 Hi there, I'm **Penchalaiah Jammula**
 
-**Senior DevOps Engineer | CI/CD Architect | Embedded Systems Specialist | Platform Engineer**
+**Senior DevOps Engineer | Build & Platform Engineering | IaC, CI/CD & GitOps Specialist**
 
 <div align="center">
   <img src="https://github.com/penchalj/penchalj/blob/main/2.jpg"
@@ -12,35 +12,48 @@
 
 ### 🚀 Professional Summary
 
-**Senior DevOps Engineer** with **16+ years** of experience in DevOps, CI/CD pipelines, Infra Structure as Code(Terraform & Biceps), containerization, and embedded systems Build & Test Automation.
+**Senior DevOps Engineer** with **16+ years** of experience designing and operating **Infrastructure as Code**, **multi-cloud platforms (AWS, Azure, GCP)**, **CI/CD pipelines**, and **GitOps workflows**, backed by a strong build-chain, container-orchestration and embedded-systems background.
 
-Currently based in **Tuttlingen, Germany** · **Immediate Availability** · **German: B2** · **Niederlassungserlaubnis**
+📍 Based in **Tuttlingen, Germany** · 🟢 **Immediate Availability** · 🇩🇪 **German: B2** · 🪪 **Niederlassungserlaubnis**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/penchaljammula/) | ✉️ penchal.jammula@gmail.com | 📞 +49 15510020160
+🔗 [LinkedIn](https://www.linkedin.com/in/penchaljammula/) &nbsp;|&nbsp; ✉️ penchal.jammula@gmail.com &nbsp;|&nbsp; 📞 +49 15510020160
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-**DevOps & CI/CD**  
-AWS • Azure • Jenkins • GitLab CI • GitHub Actions • Docker • Kubernetes • Terraform • Bicep • Ansible • Linux
+**Cloud Platforms**
+`AWS` `Azure` `GCP`
 
-**Automation & Scripting**  
-Python • PowerShell • Bash • CMake • CAPL • YAML • GROOVY
+**Infrastructure as Code**
+`Terraform` `Bicep` `Ansible`
 
-**Embedded & Automotive**  
-Embedded C/C++ • AUTOSAR • CANoe • Lauterbach • HIL Testing
+**CI/CD & GitOps**
+`Jenkins` `GitLab CI/CD` `GitHub Actions` `Azure DevOps` `ArgoCD`
 
-**Cloud & Monitoring**  
-• AWS • Azure • Grafana • JFrog Artifactory
+**Containers & Orchestration**
+`Docker` `Kubernetes` `AKS`
+
+**Build & Test Automation**
+`CMake` `Maven` `Python` `Shell` `PowerShell` `Groovy`
+
+**Monitoring & Troubleshooting**
+`Grafana` `Azure Monitor` `Root-cause analysis` `Performance tuning`
+
+**Embedded & Automotive**
+`Embedded C/C++` `AUTOSAR` `CAN/CAPL` `XCP` `HIL Testing`
+
+**Artifact & Collaboration**
+`JFrog Artifactory` `Git` `Bitbucket` `JIRA`
 
 ---
 
 ### 💼 Key Projects
 
-- **BMS CI/CD Platform** @ Marquardt – Designed and maintained full containerized CI/CD pipelines  
-- **ADAS Test Automation** – Built Python/CAPL frameworks integrated with Jenkins  
-- **Infrastructure as Code** – Terraform & Bicep templates for consistent environments
+- **BMS DevOps Platform** @ Marquardt — Designed multi-cloud (AWS/Azure) CI/CD pipelines with Jenkins & GitLab CI/CD, and drove GitOps deployment practices using ArgoCD.
+- **Infrastructure as Code Rollout** — Built and maintained Terraform & Bicep modules for repeatable, auditable infrastructure provisioning; automated configuration with Ansible.
+- **Containerized Build/Test Platforms** — Delivered Docker & Kubernetes-based build/test environments across Linux and Windows for development and self-hosted CI agents.
+- **ADAS Test Automation** — Built Python/CAPL/Bash test-automation frameworks integrated into Jenkins pipelines for Forward Camera and Laser Scanner systems.
 
 ---
 
@@ -52,7 +65,6 @@ Embedded C/C++ • AUTOSAR • CANoe • Lauterbach • HIL Testing
   &nbsp;&nbsp;
   <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Microsoft Certified Associate" height="80"/>
 </p>
-
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/">
     <img src="https://img.shields.io/badge/Microsoft%20Azure%20DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure DevOps Engineer Expert"/>
@@ -62,7 +74,6 @@ Embedded C/C++ • AUTOSAR • CANoe • Lauterbach • HIL Testing
     <img src="https://img.shields.io/badge/Microsoft%20Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Administrator Associate"/>
   </a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/ISTQB%20Certified%20Tester%20–%20Advanced%20Level-C10230?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="ISTQB Advanced"/>
   &nbsp;
@@ -72,4 +83,4 @@ Embedded C/C++ • AUTOSAR • CANoe • Lauterbach • HIL Testing
 
 ---
 
-*Passionate about building reliable, automated, and scalable development platforms.*
+*Passionate about building reliable, automated, and scalable DevOps & platform engineering solutions.*
