@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm **Penchalaiah Jammula**
-### Senior DevOps Engineer | Build & Platform Engineering | IaC, CI/CD & GitOps Specialist
-
+### Senior DevOps Engineer | Build & Platform Engineering | CI/CD,Containerization & IaC
 <div align="center">
   <img src="https://github.com/penchalj/penchalj/blob/main/2.jpg"
        alt="Penchalaiah Jammula Banner"
@@ -21,7 +20,7 @@
 
 ### 🚀 Professional Summary
 
-**Senior DevOps Engineer** with **16+ years** of combined experience in DevOps engineering, build & platform engineering, and embedded software integration for the automotive and industrial sectors. Specialized in **Infrastructure as Code** (Terraform, Bicep, Ansible), **multi-cloud platforms** (AWS, Azure, GCP) and **CI/CD pipelines** (Jenkins, GitLab CI/CD, GitHub Actions, Azure DevOps) that automate build, test and deployment across Linux and Windows environments. Proven track record designing containerized development/test platforms (Docker, Kubernetes), driving GitOps and IaC adoption, and troubleshooting complex build, infrastructure and embedded systems issues. Combines classic DevOps/Platform Engineering skillsets with strong build-chain and test-automation expertise (CMake, Maven, Python, Shell/PowerShell) — supporting both application and embedded/build-system delivery pipelines end-to-end.
+**Senior DevOps Engineer** with **16+ years** of combined experience in DevOps engineering, build & platform engineering, and embedded software integration for the automotive and industrial sectors. Specialized in **Infrastructure as Code** (Terraform, Bicep, Ansible), **multi-cloud platforms** (AWS, Azure) and **CI/CD pipelines** (Jenkins, GitLab CI/CD, GitHub Actions, Azure DevOps) that automate build, test and deployment across Linux and Windows environments. Proven track record designing containerized development/test platforms (Docker, Kubernetes), driving GitOps and IaC adoption, and troubleshooting complex build, infrastructure and embedded systems issues. Combines classic DevOps/Platform Engineering skillsets with strong build-chain and test-automation expertise (CMake, Maven, Python, Shell/PowerShell) — supporting both application and embedded/build-system delivery pipelines end-to-end.
 
 📍 Based in **Tuttlingen, Germany** &nbsp;·&nbsp; 🟢 **Available in 1 Month** &nbsp;·&nbsp; 🇩🇪 **German: B2** &nbsp;·&nbsp; 🪪 **Niederlassungserlaubnis** &nbsp;·&nbsp; 🌍 **Nationality: Indian**
 
@@ -86,9 +85,9 @@ flowchart LR
 
 ### 💼 Key Projects
 
-- 🏭 **BMS DevOps Platform** @ Marquardt — Designed multi-cloud (AWS/Azure) CI/CD pipelines with Jenkins & GitLab CI/CD, and drove GitOps deployment practices using ArgoCD.
+- 🏭 **BMS DevOps Platform** @ Marquardt — Designed CI/CD pipelines,containerized Build & Test Environments,Buil chain & Test Automation Frameworks,Technical Management.
 - 🧱 **Infrastructure as Code Rollout** — Built and maintained Terraform & Bicep modules for repeatable, auditable infrastructure provisioning; automated configuration with Ansible.
-- 🐳 **Containerized Build/Test Platforms** — Delivered Docker & Kubernetes-based build/test environments across Linux and Windows for development and self-hosted CI agents.
+- 🐳 **Containerized Build/Test Platforms** — Delivered Docker based build/test environments across Linux and Windows for development and self-hosted CI agents.
 - 🚘 **ADAS Test Automation** — Built Python/CAPL/Bash test-automation frameworks integrated into Jenkins pipelines for Forward Camera and Laser Scanner systems.
 
 ---
